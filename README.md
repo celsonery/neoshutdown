@@ -1,5 +1,3 @@
-# NeoSHutdown
+# NeoShutdown
 
-App criado para desligar as maquinas windows remotas da lanhouse.
-
-
+App criado para desligar as maquinas windows remotamente da lanhouse.
